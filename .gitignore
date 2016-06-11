@@ -21,3 +21,8 @@ dist
 dist-*
 shell.nix
 default.nix
+
+gonimo-back
+purescript-bridge
+servant-purescript
+servant-subscriber

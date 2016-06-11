@@ -23,5 +23,15 @@ git clone https://github.com/eskimor/servant-subscriber
 stack build
 ```
 
+Usagage
+-------
+
+This repo will be used to provide a working setup of all master branches.
+
+To update all sub-repositories at the moment `git checkout master` of each
+sub-project and `git pull origin master` manually.
+
+Automated workflow will eventually be provided.
+
 [1]: https://www.haskell.org/
 [2]: http://docs.haskellstack.org/en/stable/README/
