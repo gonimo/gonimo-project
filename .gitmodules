@@ -1,0 +1,12 @@
+[submodule "gonimo-back"]
+	path = gonimo-back
+	url = https://github.com/gonimo/gonimo-back
+[submodule "purescript-bridge"]
+	path = purescript-bridge
+	url = https://github.com/eskimor/purescript-bridge.git
+[submodule "servant-purescript"]
+	path = servant-purescript
+	url = https://github.com/eskimor/servant-purescript.git
+[submodule "servant-subscriber"]
+	path = servant-subscriber
+	url = https://github.com/eskimor/servant-subscriber.git
