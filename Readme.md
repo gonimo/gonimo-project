@@ -23,7 +23,7 @@ git clone https://github.com/eskimor/servant-subscriber
 stack build
 ```
 
-Usagage
+Usage
 -------
 
 This repo will be used to provide a working setup of all master branches.
